@@ -24,7 +24,7 @@ local roles = {
 }
 local author_color = "muted"
 
-local variants = { "dark" }
+local variants = { "dark", "light" }
 
 local function color(variant, key)
   local value = palette[variant][key]

@@ -34,3 +34,32 @@ gui:
       - "#cccccc" # fg
     authorColors:
       "*": "#8e8e8e" # muted
+  lightTheme:
+    activeBorderColor:
+      - "#d97757" # clay
+      - bold
+    searchingActiveBorderColor:
+      - "#202020" # bright
+      - bold
+    inactiveBorderColor:
+      - "#b5b5b5" # float_border
+    optionsTextColor:
+      - "#737373" # comment
+    selectedLineBgColor:
+      - "#c6c6c6" # selection
+    inactiveViewSelectedLineBgColor:
+      - "#e5e5e5" # cursorline
+    cherryPickedCommitFgColor:
+      - "#202020" # bright
+    cherryPickedCommitBgColor:
+      - "#b7b7b7" # search
+    markedBaseCommitFgColor:
+      - "#f6f6f6" # bg
+    markedBaseCommitBgColor:
+      - "#4b4b4b" # secondary
+    unstagedChangesColor:
+      - "#4b4b4b" # secondary
+    defaultFgColor:
+      - "#333333" # fg
+    authorColors:
+      "*": "#616161" # muted
